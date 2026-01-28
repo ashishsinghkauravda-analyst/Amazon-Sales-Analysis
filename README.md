@@ -15,8 +15,8 @@ This project analyzes Amazon SaaS sales data to understand business performance,
 ---
 
 ## Tools Used
--Power BI
--Microsoft Excel
+- Power BI
+- Microsoft Excel
 
 ---
 
@@ -36,6 +36,6 @@ This project analyzes Amazon SaaS sales data to understand business performance,
 ---
 
 ## Files Included
--Cleaned dataset(Excel)
--Power BI dashboard file
--Dashboard Screenshots
+- Cleaned dataset(Excel)
+- Power BI dashboard file
+- Dashboard Screenshots
