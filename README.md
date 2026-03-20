@@ -166,7 +166,7 @@ Amazon-SaaS-Sales-Dashboard/
 ## Power BI Dashboards
 
 ### 1. Executive Business Overview
-![Executive Business Overview](dashboards/Executive_Business_Overview.png)
+![Executive Business Overview](Executive_Business_Overview.png)
 
 **Insights:**
 
@@ -183,7 +183,7 @@ Average Revenue per Customer is 21.05K
 ---
 
 ### 2. Customer & Market Segmentation Insights
-![Customer and Market Segmentation Insights](dashboards/Customer_and_Market_Segmentation_Insights.png)
+![Customer and Market Segmentation Insights](Customer_and_Market_Segmentation_Insights.png)
 
 **Insights:**
 
@@ -200,7 +200,7 @@ Customer distribution varies across industries
 ---
 
 ### 3. Product Performance & Profitability Analysis
-![Product Performance & Profitability Analysis](dashboards/Product_Performance_and_Profitability_Analysis.png)
+![Product Performance & Profitability Analysis](Product_Performance_and_Profitability_Analysis.png)
 
 **Insights:**
 
