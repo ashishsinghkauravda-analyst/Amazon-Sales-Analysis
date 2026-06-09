@@ -1,4 +1,4 @@
-# Amazon SaaS Sales Dashboard
+# Amazon Sales Dashboard
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing Amazon SaaS Sales data using Power BI to uncover meaningful business insights.
+This project focuses on analyzing Amazon Sales data using Power BI to uncover meaningful business insights.
 
 The dashboard helps stakeholders to:
 
@@ -50,7 +50,7 @@ Make data-driven decisions
 
 ## Business Problem
 
-SaaS companies face challenges like:
+Companies face challenges like:
 
 Identifying high-performing products & regions
 
